@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ASCO-2.000MHZ-EK-T3")(type "KiCad")(uri "${KIPRJMOD}/ASCO-2.000MHZ-EK-T3.kicad_sym")(options "")(descr ""))
+)
